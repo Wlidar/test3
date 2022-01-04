@@ -7,7 +7,8 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "platforms": [
-      "android"
+      "android",
+      "web",
     ],
     "splash": {
       "image": "./assets/splash.png",
